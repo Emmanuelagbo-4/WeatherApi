@@ -1,0 +1,10 @@
+C:\Users\Aerodynamicman\source\repos\VS_2019_Projects\API_Projects\WeatherApi\WeatherApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Aerodynamicman\source\repos\VS_2019_Projects\API_Projects\WeatherApi\WeatherApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Aerodynamicman\source\repos\VS_2019_Projects\API_Projects\WeatherApi\WeatherApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Aerodynamicman\source\repos\VS_2019_Projects\API_Projects\WeatherApi\WeatherApi\bin\Debug\netcoreapp3.1\WeatherApi.exe
+C:\Users\Aerodynamicman\source\repos\VS_2019_Projects\API_Projects\WeatherApi\WeatherApi\obj\Debug\netcoreapp3.1\WeatherApi.csprojAssemblyReference.cache
+C:\Users\Aerodynamicman\source\repos\VS_2019_Projects\API_Projects\WeatherApi\WeatherApi\obj\Debug\netcoreapp3.1\staticwebassets\WeatherApi.StaticWebAssets.Manifest.cache
+C:\Users\Aerodynamicman\source\repos\VS_2019_Projects\API_Projects\WeatherApi\WeatherApi\obj\Debug\netcoreapp3.1\staticwebassets\WeatherApi.StaticWebAssets.xml
+C:\Users\Aerodynamicman\source\repos\VS_2019_Projects\API_Projects\WeatherApi\WeatherApi\obj\Debug\netcoreapp3.1\WeatherApi.AssemblyInfoInputs.cache
+C:\Users\Aerodynamicman\source\repos\VS_2019_Projects\API_Projects\WeatherApi\WeatherApi\obj\Debug\netcoreapp3.1\WeatherApi.AssemblyInfo.cs
+C:\Users\Aerodynamicman\source\repos\VS_2019_Projects\API_Projects\WeatherApi\WeatherApi\obj\Debug\netcoreapp3.1\WeatherApi.RazorTargetAssemblyInfo.cache
